@@ -53,5 +53,4 @@
         const parent = event.target.parentElement;
         parent.remove();
     }
-
     })();
