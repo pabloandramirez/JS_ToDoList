@@ -4,3 +4,5 @@
 ![preview img](preview.png)
 
 ### https://pabloandramirez.github.io/JS_ToDoList/
+or
+### https://js-to-do-list-hazel.vercel.app/
